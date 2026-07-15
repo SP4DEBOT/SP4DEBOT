@@ -57,7 +57,9 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP4DEBOT/SP4DEBOT/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b><br>
