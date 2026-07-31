@@ -1,8 +1,8 @@
-# Hi there 👋, I'm SP4DEBOT
+# Hi there 👋, I'm Ashish
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Frontend+%7C+Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+
+
+
 
 ---
 
@@ -42,12 +42,27 @@
   <a href="https://github.com/SP4DEBOT">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/ashishjosevarkey/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SP4DEBOT/SP4DEBOT/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SP4DEBOT/SP4DEBOT/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/SP4DEBOT/SP4DEBOT/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b><br>
